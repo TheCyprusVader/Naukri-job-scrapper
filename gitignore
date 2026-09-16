@@ -1,0 +1,5 @@
+naukri_jobs_weekly.xlsx
+naukri_jobs*.csv
+page_output.html
+__pycache__/
+*.pyc
